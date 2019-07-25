@@ -1,0 +1,1 @@
+[null,{"name":"Wyświetalnie","temp":"","event-type":"3","actions":[{"gameName":"Potrzebujesz pomocy? Wpisz !pomoc","gameLink":"","name":"Set Bot Game"},{"time":"15","measurement":"1","name":"Wait"},{"gameName":"Służę pomocą!","gameLink":"","name":"Set Bot Game"},{"time":"15","measurement":"1","name":"Wait"}]}]
